@@ -1,16 +1,3 @@
-#searchInput {
-    display: none;
-    transition: width 0.3s;
-  }
-  
-
-  .show-search #searchInput {
-    display: inline-block;
-    width: 150px;
-  }
 
 
-  .search-icon {
-    color: white;
-    cursor: pointer;
-  }
+
